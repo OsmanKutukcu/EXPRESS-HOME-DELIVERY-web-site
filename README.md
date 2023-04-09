@@ -1,4 +1,4 @@
-# EXPRESS-HOME-DELIVERY-web-site
+# EXPRESS HOME DELIVERY-web site
 Online yemek siparişlerini kaliteli görseller üzerinden kolayca verebilir ve hızlıca size ulaşmasını sağlayabilirsiniz.
 <h3>Kullanılan Teknolojiler :</h3>
  Html-Css ve Js kullanılarak Responsive olarak tasarlanmış çok sayfalı bir sitedir.
